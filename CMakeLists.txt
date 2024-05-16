@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.20)
 
-project(exampleL14
+project(Shader
     VERSION 0.0.1
     LANGUAGES C CXX
 )
